@@ -34,3 +34,7 @@ F:\TeamHP\hpproj3\hpproj3\obj\Debug\MainPage.g.cs
 F:\TeamHP\hpproj3\hpproj3\obj\Debug\hpproj3.g.resources
 F:\TeamHP\hpproj3\hpproj3\obj\Debug\hpproj3.Resources.AppResources.resources
 F:\TeamHP\hpproj3\hpproj3\obj\Debug\hpproj3.csproj.GenerateResource.Cache
+F:\TeamHP\hpproj3\hpproj3\Bin\Debug\AppManifest.xaml
+F:\TeamHP\hpproj3\hpproj3\Bin\Debug\Properties\WMAppManifest.xml
+F:\TeamHP\hpproj3\hpproj3\Bin\Debug\hpproj3_Debug_AnyCPU.xap
+F:\TeamHP\hpproj3\hpproj3\obj\Debug\XapCacheFile.xml
